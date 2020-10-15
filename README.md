@@ -9,8 +9,11 @@ I work on recommendation systems and experiences as a leader on the Content Disc
 team at [Wattpad](http://company.wattpad.com/). I am primarily interested in **backend and 
 Machine Learning systems** but have also worked extensively on Android and iOS apps in the past.
 
-Outside of work, I'm interested in following and contributing to ML and NLP research, 
-particularly in the area of unsupervised machine translation (i.e. translation without paired samples).
+I'm fascinated by large-scale, high-impact products and have helped build systems that see 
+tens of thousands of requests per second as well as apps that have 100M+ installs.
+
+Outside of work, I'm interested in following and contributing to AI research. My areas of interest 
+primarily include Machine Learning, Natural Language Processing, Recommender Systems, and Search. 
 I also play a lot of video games <img src="https://image.flaticon.com/icons/svg/686/686589.svg" width="12"/>.
 
 #### Catch me on  
