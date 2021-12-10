@@ -1,25 +1,22 @@
-<img align="right" width="75" height="75" src="https://image.flaticon.com/icons/svg/3093/3093930.svg" />
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="30"/>
+I'm [**Muhammad Osama**](https://osama.dev), a senior software engineer from Toronto 🍁.
 
-I'm [**Muhammad Osama**](https://osama.dev), a senior software engineer and data scientist from 
-Toronto <img src="https://image.flaticon.com/icons/svg/3093/3093906.svg" width="12"/>.
+I'm primarily interested in **machine learning and backend systems** and currently work as a
+software engineer at [**@Meta**](https://github.com/facebook). Previously, I played a key role in building
+the recommendation systems and machine learning platform at [**@Wattpad**](https://github.com/wattpad).
 
-I work on recommendation systems and experiences as a leader on the Content Discovery
-team at [Wattpad](http://company.wattpad.com/). I am primarily interested in **backend and 
-Machine Learning systems** but have also worked extensively on Android and iOS apps in the past.
-
-I'm fascinated by large-scale, high-impact products and have helped build systems that see 
+I'm fascinated by large-scale, high-impact products and have worked on systems that see 
 tens of thousands of requests per second as well as apps that have 100M+ installs.
 
 Outside of work, I'm interested in following and contributing to AI research. My areas of interest 
 primarily include Machine Learning, Natural Language Processing, Recommender Systems, and Search. 
-I also play a lot of video games <img src="https://image.flaticon.com/icons/svg/686/686589.svg" width="12"/>.
+I also play a lot of video games 🎮.
 
 #### Catch me on  
 [<img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-%234885ED.svg?&style=for-the-badge&logo=Google%20Scholar&logoColor=white" />](https://scholar.google.com/citations?user=Un736ecAAAAJ)
 [<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" />](https://medium.com/@osama.dev)
-[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/n0shadow)
+[<img alt="Twitter" src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/osama_src)
 [<img alt="AngelList" src="https://img.shields.io/badge/AngelList-%23000000.svg?&style=for-the-badge&logo=AngelList&logoColor=white" />](https://angel.co/muhammad-osama-3)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/mcode)
 [<img alt="Steam" src="https://img.shields.io/badge/Steam-%2312100E.svg?&style=for-the-badge&logo=Steam&logoColor=white" />](https://steamcommunity.com/id/n0shadow)
